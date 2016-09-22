@@ -22,5 +22,5 @@ var AppComponent = (function () {
     ], AppComponent);
     return AppComponent;
 }());
-exports.AppComponent = AppComponent;
+exports.AppComponent = AppComponent; // A component class that controls the appearance and behavior of a view through its template. We only have the root component, AppComponent. 
 //# sourceMappingURL=app.component.js.map
